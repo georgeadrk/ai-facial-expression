@@ -1,6 +1,5 @@
 import cv2
 from fer import FER
-import moviepy
 
 # Paths to age and gender models
 AGE_PROTO = "age_deploy.prototxt"
